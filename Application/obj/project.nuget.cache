@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTSlZOE1pOzrt0UtNM7WQVYLHVS0nnaQVZEmTHJWjw0UWKfHKtXY4Pd+9wvvTHG6lW36BVSxFLRigsHFJET23w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Solution 1\\API Project with JWT Token\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
